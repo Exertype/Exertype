@@ -1,6 +1,6 @@
 - Heya! I'm Exertype.
 - I am an Artist and Programmer
-- I will soon start working as a Sotwareengineer
+- I am currently employed as a Software Engineer
 - You can reach me via Discord. Exertype#6625
 
 <!---
